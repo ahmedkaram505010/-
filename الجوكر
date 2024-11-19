@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تراستيد الجوكر</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            direction: rtl;
+            text-align: center;
+            background-color: #121212;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #e50914;
+            padding: 20px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #fff;
+        }
+        section {
+            padding: 20px;
+        }
+        section p {
+            font-size: 1.2em;
+            line-height: 1.8;
+        }
+        section img {
+            max-width: 80%;
+            height: auto;
+            margin: 20px auto;
+            border: 3px solid #e50914;
+        }
+        footer {
+            background-color: #333;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            color: #ccc;
+            font-size: 0.9em;
+        }
+        .contact {
+            margin-top: 20px;
+            font-size: 1.2em;
+            color: #e50914;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>تراستيد الجوكر</h1>
+    </header>
+    <section>
+        <img src="joker-image.jpg" alt="تراستيد الجوكر">
+        <p>
+            تراستيد جوكر هو أفضل تراستيد لشحن جميع الألعاب بسرعة فائقة، ويمكنه أن يصنع أكثر من 3 وساطات في نفس الوقت. يتمتع بشهرة واسعة في هذا المجال منذ عام 2020.<br>
+            يعتمد الجوكر على نفسه في جميع الوساطات، ويستخدم السرعة والدقة لإرضاء الزبون.
+        </p>
+        <p class="contact">
+            للتواصل: 01096216706
+        </p>
+    </section>
+    <footer>
+        &copy; 2024 جميع الحقوق محفوظة - تراستيد الجوكر.
+    </footer>
+</body>
+</html>
